@@ -45,6 +45,7 @@ a {
     padding: 10% 20%;
     background-color: #1F2937;
     justify-content: space-between;
+    gap: 10px;
 }
 
 .hero-text-container {
@@ -91,9 +92,9 @@ a {
     flex-direction: column;
     text-align: center;
     margin: 0 25%;
-    gap: 30px;
-    padding-top: 30px;
-    padding-bottom: 92px;
+    gap: 50px;
+    padding-top: 50px;
+    padding-bottom: 142px;
 }
 
 .info-images-container {
@@ -128,8 +129,8 @@ a {
     background-color: #E5E7EB;
     align-items: center;
     padding: 0 25%;
-    padding-top: 92px;
-    padding-bottom: 60px;
+    padding-top: 142px;
+    padding-bottom: 109px;
 }
 
 .quote-text {
@@ -147,7 +148,7 @@ a {
 }
 
 .signup-container {
-    margin: 60px 20%;
+    margin: 109px 20%;
     padding: 50px 80px;
     background-color: #3882F6;
     border-radius: 12px;
@@ -172,7 +173,7 @@ a {
     color: #E5E7EB;
     background-color: #1F2937;
     text-align: center;
-    padding: 30px 0;
+    padding: 45px 0;
 }
 
 
